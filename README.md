@@ -2,7 +2,7 @@
 
 實現"Adaptive Enhancement for non-uniform illumination Images via Pixel-wise Histogram Modification and Color Reconstruction"這篇內容。
 
-發現亮度平均值過高或者過低效果沒有很好，普通圖結果：
+亮度平均值"過高"或"過低"效果沒有很好，可能是轉換上的一些問題。
 
 原圖:
 
