@@ -2,9 +2,9 @@
 
 需要環境:
 
-python3
-opencv3
-matplotlib
+python3\n
+opencv3\n
+matplotlib\n
 numpy
 
 實現"Adaptive Enhancement for non-uniform illumination Images via Pixel-wise Histogram Modification and Color Reconstruction"這篇內容。
