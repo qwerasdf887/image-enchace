@@ -1,9 +1,13 @@
 # image-enchace
 
 需要環境:
+
 python3
+
 opencv3
+
 matplotlib
+
 numpy
 
 實現"Adaptive Enhancement for non-uniform illumination Images via Pixel-wise Histogram Modification and Color Reconstruction"這篇內容。
